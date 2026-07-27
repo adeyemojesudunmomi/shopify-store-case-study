@@ -1,91 +1,69 @@
-# Nimi the Great - Shopify Store Case Study
+# Shopify Store Case Study – Nimi_the_great
 
 ## Overview
 
-Nimi the Great is a beauty and skincare Shopify store that I built from scratch using Shopify. This project demonstrates my ability to create, customize, and manage an e-commerce store using Shopify's admin dashboard and built-in customization tools.
+This project showcases a Shopify e-commerce store I built and customized for a beauty and skincare brand.
 
----
+The objective was to create a clean, mobile-friendly online store with product management, collections, shopping cart functionality, and a complete checkout experience.
 
-## Project Objectives
+## Live Store
 
-- Build a professional beauty and skincare online store.
-- Create a user-friendly shopping experience.
-- Organize products into collections.
-- Configure essential store settings.
-- Prepare the store for customer purchases.
-
----
-
-## My Responsibilities
-
-- Created the Shopify store from scratch.
-- Customized the Shopify theme.
-- Added and organized products.
-- Created product collections.
-- Configured store navigation.
-- Installed and configured Shopify apps.
-- Customized homepage sections.
-- Managed store settings.
-- Optimized the shopping experience.
-
----
+https://nimi-the-great.myshopify.com
 
 ## Features
 
 - Responsive Shopify storefront
+- Beauty & skincare product catalog
 - Product collections
-- Product pages
 - Shopping cart
-- Store navigation
-- Theme customization
-- App integrations
+- Secure checkout
 - Mobile-friendly design
+- Contact page
+- About Us page
+- Navigation menu
+- Shopify theme customization
 
----
+## My Responsibilities
+
+- Store setup
+- Theme customization using Shopify Dawn theme
+- Product upload and organization
+- Product pricing and inventory management
+- Collection management
+- Navigation menu configuration
+- Homepage customization
+- Store testing on mobile devices
 
 ## Technologies Used
 
 - Shopify
-- Shopify Theme Editor
+- Dawn Theme
+- Shopify Admin
 - Product Management
-- Collection Management
-- Navigation Configuration
-- App Integration
-
----
+- Theme Customization
 
 ## Screenshots
 
-Screenshots of the storefront and Shopify admin will be added here.
+Add screenshots here showing:
 
----
+- Homepage
+- Product catalog
+- Product page
+- Shopping cart
+- Checkout page
+- Shopify Admin dashboard
 
 ## What I Learned
 
-Building this project improved my understanding of:
+Through this project I improved my understanding of:
 
-- Shopify store setup
+- Shopify store management
 - Theme customization
 - Product organization
-- Store management
-- App integration
-- User experience optimization
-
----
-
-## Future Improvements
-
-- Custom Liquid development
-- Performance optimization
-- SEO improvements
-- Advanced app integrations
-
----
+- User experience
+- Mobile responsiveness
+- E-commerce workflows
 
 ## Author
 
-**Adeyemo Jesudunmomi Champion**
-
-Backend Developer | Shopify Website Developer
-
-GitHub: https://github.com/adeyemojesudunmomi
+Adeyemo Jesudunmomi
